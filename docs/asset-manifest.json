@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.41a85257.css",
+    "main.js": "/static/js/main.04207254.js",
+    "static/js/787.9fde2333.chunk.js": "/static/js/787.9fde2333.chunk.js",
+    "static/media/philosopher-all-400-normal.woff": "/static/media/philosopher-all-400-normal.2b26e5b877dac0c335e5.woff",
+    "static/media/philosopher-latin-400-normal.woff2": "/static/media/philosopher-latin-400-normal.a5e120942b948353f7b8.woff2",
+    "static/media/philosopher-cyrillic-400-normal.woff2": "/static/media/philosopher-cyrillic-400-normal.0da6220f782fc34aec7a.woff2",
+    "static/media/philosopher-cyrillic-ext-400-normal.woff2": "/static/media/philosopher-cyrillic-ext-400-normal.2d536ba9aa3e836f0697.woff2",
+    "static/media/philosopher-vietnamese-400-normal.woff2": "/static/media/philosopher-vietnamese-400-normal.de38489119133c26534b.woff2",
+    "index.html": "/index.html",
+    "main.41a85257.css.map": "/static/css/main.41a85257.css.map",
+    "main.04207254.js.map": "/static/js/main.04207254.js.map",
+    "787.9fde2333.chunk.js.map": "/static/js/787.9fde2333.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41a85257.css",
+    "static/js/main.04207254.js"
+  ]
+}
